@@ -1,4 +1,10 @@
-# 
+# Converter: Login, WSID, Display Name
+
+Utility plugin to mass convert:
+- Logins -> WSIDs
+- WSIDs -> Logins
+- Logins -> Display Names
+- WSIDs -> Display Names
 
 License: Public Domain
 
